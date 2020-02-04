@@ -121,7 +121,7 @@ This project was one of the firsts I created using RoR and was a challenge, espe
 You can find my social media & other interesting links, here:
 
 [LinkedIn](https://www.linkedin.com/in/majoreyesparroquin/)
-[Twitter](https://twitter.com/Sabes_Maria)
+[Twitter](https://twitter.com/MajoVanilla)
 [GitHub](https://github.com/majovanilla)
 [HackerRank](https://www.hackerrank.com/maria_reyes?hr_r=1)
 [LeetCode](https://leetcode.com/majovanilla/)

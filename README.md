@@ -3,11 +3,10 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-<!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/majovanilla/personal-projects">
-    <img src="img/mLogo.png" alt="Logo" width="80" height="80">
+    <img src="img/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Majovanilla's Repo Tour</h3>
@@ -32,8 +31,8 @@
   * [TDN Clone Page](#tdn-clone-page)
   
 * [Javascript Projects](#js-projects)
-  * [Library Project](#library)
-  * [To do List](#todo-list)
+  * [Library Project](#library-project)
+  * [To do List](#to-do-list)
   * [Restaurant Page](#restaurant-page)
 
 * [Ruby Projects](#ruby-projects)

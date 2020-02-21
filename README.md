@@ -50,7 +50,7 @@
 ## RoR Projects
 
 ### [Social Network Repo](https://gitlab.com/majovanilla/social-network/)
-[Live Version](https://powerful-scrubland-66847.herokuapp.com/)
+[Live Version](https://serene-basin-51287.herokuapp.com/)
 
 In this collaborative project, we created an app with similar functionalities as Facebook. The challenge was to build the app from scratch, desingnin the architecture, thinking about the models and the associations between them. At the end, the app allows a user to create an account using their email or through Facebook, they can add other users as friends, accept or delete requests, create posts, comments and likes.
 

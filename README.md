@@ -68,40 +68,38 @@ This project was one of the firsts I created using RoR and was a challenge, espe
 ### [Blog Project Repo](https://github.com/majovanilla/static-page)
 
 Project based on the Michael Hartls' Rails Tutorial. This was the first complete RoR project that I built.
-Over the time I've improved the backend and the frontend.
-I enjoyed and was challenged by this project, being my first approach to Rails. Of course, nothing topped the feeling of being able to build a fully functional app for the first time.
+Over time I've improved the backend and the frontend. I enjoyed and was challenged by this project, being my first attempt at Rails.
 
 ## Javsscript Projects
 
 ### [Weather app Repo](https://github.com/majovanilla/weather-app)
 [Live Version](https://majovanilla.github.io/weather-app/)
 
-This was a very fun project to build. The goal was to practice making API call to a service. In this case, I connected the app with the [Open Weather API](https://openweathermap.org/api) and practiced using two different API call, depending on the selected temperature units. Although not an efficient use of the API, it was a good exercise.
+This was a very fun project to build. The goal was to practice making API calls to a remote service. In this case, I connected the app with the [Open Weather API](https://openweathermap.org/api) and used two different API calls, depending on the selected temperature units. Although not an efficient use of the API, it was a good exercise.
 
 ### [Restaurant Page Repo](https://github.com/majovanilla/restaurant-page)
 [Live Version](https://majovanilla.github.io/restaurant-page/)
 
-I love the designed I chose for this project. It is elegant and classic and shows a restaurant website using dynamic tabs that render different content when you clicked them.
+I love the design I chose for this project. It is elegant and classic and shows a restaurant website using dynamic tabs that render different content when you click them.
 You could say it's another version of a one-page site.
 
 ### [Library Project Repo](https://github.com/majovanilla/js-library)
 [Live Version](https://majovanilla.github.io/js-library/)
 
-This project was all about learning how to create a functional app using only JS. I practiced more about manipulating the DOM and the most difficult part was to try to use JS as a backend language and change the elements in the Local Storage.
+This project was all about learning how to create a functional app using only JS. I practiced more with manipulating the DOM. The most difficult aspects of this project were trying  to use JS as a backend language and changing the elements in the Local Storage.
 
 ### [To do List Repo](https://github.com/majovanilla/todo-list)
 [Live Version](https://majovanilla.github.io/todo-list/)
 
 This was a fun project. Again, the difficult thing is using Javascript to select and manipulate the actual objects stored in the DB, in this case Local Storage.
-The app allows the user to create project and attach to-dos to them, with a descrption, priority and due date. 
-We also played a little with form validation using JS to avoid incorrect inputs to be submitted.
+The app allows the user to create projects and attach to-dos to them, along with a description, priority, and due date. We also played a little with form validation using JS to avoid allowing incorrect inputs to be submitted.
 
 ## Ruby Projects
 
 ### [Tic Tac Toe Game Repo](https://github.com/majovanilla/tic-tac-toe-game)
 
-A console version of the famous game made with Ruby.
-My partner @uryelah and I had a wonderful time creating this game with a very simple interface, like the old time games we used to play in elementary school.
+A console version of the famous game, made with Ruby.
+My partner @uryelah and I had a wonderful time creating this game with a very simple interface, like the old games we used to play in elementary school.
 It's a two player game with the ability to keep the score.
 
 ### [Enumerable Methods Repo](https://github.com/majovanilla/enumerable-methods)
@@ -114,14 +112,14 @@ This project was really fun to build, and I learned a lot about working with enu
 ### [Youtube Page Repo](https://github.com/majovanilla/youtube-page)
 [Live Version](https://majovanilla.github.io/youtube-page/)
 
-The goal of this project was to get to know HTML structure of the Youtube page and organize the elements of the webpage to ge the visual look that we wanted.
+The goal of this project was to get to know the HTML structure of a Youtube page and organize the elements of the webpage to ge the visual look that we wanted.
 It was made using HTML and CSS.
-The most interesting part of this project was to embed the video. 
+The most interesting part of this project was embedding the video. 
 
 ### [HTML Forms Repo](https://github.com/majovanilla/html-forms)
 [Live Version](https://majovanilla.github.io/html-forms/)
 
-In this project we played with forms and inputs in order to get to know that essential part of HTML and then styled it with the CSS.
+In this project we played with forms and inputs in order to get to know that essential part of HTML and then styled it with CSS.
 We cloned an existing login website: https://mint.intuit.com/login.event
 
 ### [New York Times Clone Repo](https://github.com/majovanilla/new-york-times-clone)

@@ -23,27 +23,92 @@
 
 
 ## Contents
-
-* [HTML & CSS Projects](#front-end-projects)
-  * [Youtube Page](#youtube-page)
-  * [HTML Form](#html-forms)
-  * [NYT Clone Page](#new-york-times-clone-page)
-  * [TDN Clone Page](#tdn-clone-page)
+* [Ruby on Rails Projects](#ror-projects)
+  * [Social Network](#social-network-repo)
+  * [Event Manager](#event-manager-repo)
+  * [Blog Project](#blog-project-repo)
+  * [Members Only Project](#members-only-app-repo)
   
 * [Javascript Projects](#js-projects)
-  * [Library Project](#library-project)
-  * [To do List](#to-do-list)
-  * [Restaurant Page](#restaurant-page)
+  * [Weather app](#weather-app-repo)
+  * [Restaurant Page](#restaurant-page-repo)
+  * [Library Project](#library-project-repo)
+  * [To do List](#to-do-list-repo)
 
 * [Ruby Projects](#ruby-projects)
-  * [Tic Tac Toe Game](#tic-tac-toe-game)
-  * [Enumerable Methods](#enumerable-methods)
-
-* [Ruby on Rails Projects](#ror-projects)
-  * [Blog Project](#blog-project)
-  * [Members Only Project](#members-only-app)
+  * [Tic Tac Toe Game](#tic-tac-toe-game-repo)
+  * [Enumerable Methods](#enumerable-methods-repo)
+ 
+* [HTML & CSS Projects](#front-end-projects)
+  * [Youtube Page](#youtube-page-repo)
+  * [HTML Form](#html-forms-repo)
+  * [NYT Clone Page](#new-york-times-clone-repo)
+  * [TDN Clone Page](#tdn-clone-page-repo)
 
 * [Contact Information](#contact-information)
+
+## RoR Projects
+
+### [Social Network Repo](https://github.com/majovanilla/social-network)
+[Live Version](https://powerful-scrubland-66847.herokuapp.com/)
+
+In this collaborative project, we created an app with similar functionalities as Facebook. The challenge was to build the app from scratch, desingnin the architecture, thinking about the models and the associations between them. At the end, the app allows a user to create an account using their email or through Facebook, they can add other users as friends, accept or delete requests, create posts, comments and likes.
+
+### [Event Manager Repo](https://github.com/majovanilla/event-app)
+[Live Version](https://powerful-plains-60448.herokuapp.com/)
+
+This project was focused on creating a website were users could publish and attend events. The events are organized by date. We practiced the use of complex associations, allowing a user to be an attendee and also the creator of an event, attend multiple events and the posibility to invite other users.
+
+### [Members Only App Repo](https://github.com/majovanilla/Members-Only)
+[Live Version]( https://fierce-waters-99113.herokuapp.com/)
+
+This project is a basic version of a blog where we played with the login to show or hide some features to the users. The functionalities are: sign up, login, and creating posts. All users and visitors can see the posts, but only logged in users can see the author.
+The app uses the bcrypt gem for authentication, which is made from scratch. It also stores cookies to remember the logged in users.
+This project was one of the firsts I created using RoR and was a challenge, especially building the authentication process.
+
+### [Blog Project Repo](https://github.com/majovanilla/static-page)
+
+Project based on the Michael Hartls' Rails Tutorial. This was the first complete RoR project that I built.
+Over the time I've improved the backend and the frontend.
+I enjoyed and was challenged by this project, being my first approach to Rails. Of course, nothing topped the feeling of being able to build a fully functional app for the first time.
+
+## Javsscript Projects
+
+### [Weather app Repo](https://github.com/majovanilla/weather-app)
+[Live Version](https://majovanilla.github.io/weather-app/)
+
+This was a very fun project to build. The goal was to practice making API call to a service. In this case, I connected the app with the [Open Weather API](https://openweathermap.org/api) and practiced using two different API call, depending on the selected temperature units. Although not an efficient use of the API, it was a good exercise.
+
+### [Restaurant Page Repo](https://github.com/majovanilla/restaurant-page)
+[Live Version](https://majovanilla.github.io/restaurant-page/)
+
+I love the designed I chose for this project. It is elegant and classic and shows a restaurant website using dynamic tabs that render different content when you clicked them.
+You could say it's another version of a one-page site.
+
+### [Library Project Repo](https://github.com/majovanilla/js-library)
+[Live Version](https://majovanilla.github.io/js-library/)
+
+This project was all about learning how to create a functional app using only JS. I practiced more about manipulating the DOM and the most difficult part was to try to use JS as a backend language and change the elements in the Local Storage.
+
+### [To do List Repo](https://github.com/majovanilla/todo-list)
+[Live Version](https://majovanilla.github.io/todo-list/)
+
+This was a fun project. Again, the difficult thing is using Javascript to select and manipulate the actual objects stored in the DB, in this case Local Storage.
+The app allows the user to create project and attach to-dos to them, with a descrption, priority and due date. 
+We also played a little with form validation using JS to avoid incorrect inputs to be submitted.
+
+## Ruby Projects
+
+### [Tic Tac Toe Game Repo](https://github.com/majovanilla/tic-tac-toe-game)
+
+A console version of the famous game made with Ruby.
+My partner @uryelah and I had a wonderful time creating this game with a very simple interface, like the old time games we used to play in elementary school.
+It's a two player game with the ability to keep the score.
+
+### [Enumerable Methods Repo](https://github.com/majovanilla/enumerable-methods)
+
+A sample of my own enumerable methods made with Ruby.
+This project was really fun to build, and I learned a lot about working with enumerables, but also about thinking about multiple case scenarios and edge cases when working with methods.
 
 ## Front-end Projects
 
@@ -73,71 +138,6 @@ In this project we created a responsive design website using media queries. We i
 Building this I got the chance to practice the use of float and flex (which is the one I like the most) to position objects and make them behave the way we wanted when changing the screen size.
 
 
-## Javsscript Projects
-
-### [Weather app Repo](https://github.com/majovanilla/weather-app)
-[Live Version](https://majovanilla.github.io/weather-app/)
-
-This was a very fun project to build. The goal was to practice making API call to a service. In this case, I connected the app with the [Open Weather API](https://openweathermap.org/api) and practiced using two different API call, depending on the selected temperature units. Although not an efficient use of the API, it was a good exercise.
-
-
-### [Restaurant Page Repo](https://github.com/majovanilla/restaurant-page)
-[Live Version](https://majovanilla.github.io/restaurant-page/)
-
-I love the designed I chose for this project. It is elegant and classic and shows a restaurant website using dynamic tabs that render different content when you clicked them.
-You could say it's another version of a one-page site.
-
-### [Library Project Repo](https://github.com/majovanilla/js-library)
-[Live Version](https://majovanilla.github.io/js-library/)
-
-This project was all about learning how to create a functional app using only JS. I practiced more about manipulating the DOM and the most difficult part was to try to use JS as a backend language and change the elements in the Local Storage.
-
-### [To do List Repo](https://github.com/majovanilla/todo-list)
-[Live Version](https://majovanilla.github.io/todo-list/)
-
-This was a fun project. Again, the difficult thing is using Javascript to select and manipulate the actual objects stored in the DB, in this case Local Storage.
-The app allows the user to create project and attach to-dos to them, with a descrption, priority and due date. 
-We also played a little with form validation using JS to avoid incorrect inputs to be submitted.
-
-
-## Ruby Projects
-
-### [Tic Tac Toe Game Repo](https://github.com/majovanilla/tic-tac-toe-game)
-
-A console version of the famous game made with Ruby.
-My partner @uryelah and I had a wonderful time creating this game with a very simple interface, like the old time games we used to play in elementary school.
-It's a two player game with the ability to keep the score.
-
-### [Enumerable Methods Repo](https://github.com/majovanilla/enumerable-methods)
-
-A sample of my own enumerable methods made with Ruby.
-This project was really fun to build, and I learned a lot about working with enumerables, but also about thinking about multiple case scenarios and edge cases when working with methods.
-
-
-## RoR Projects
-
-### [Social Network Repo](https://github.com/majovanilla/social-network)
-[Live Version](https://powerful-scrubland-66847.herokuapp.com/)
-
-In this collaborative project, we created an app with similar functionalities as Facebook. The challenge was to build the app from scratch, desingnin the architecture, thinking about the models and the associations between them. At the end, the app allows a user to create an account using their email or through Facebook, they can add other users as friends, accept or delete requests, create posts, comments and likes.
-
-### [Event Manager Repo](https://github.com/majovanilla/event-app)
-[Live Version](https://powerful-plains-60448.herokuapp.com/)
-
-This project was focused on creating a website were users could publish and attend events. The events are organized by date. We practiced the use of complex associations, allowing a user to be an attendee and also the creator of an event, attend multiple events and the posibility to invite other users.
-
-### [Members Only App Repo](https://github.com/majovanilla/Members-Only)
-[Live Version]( https://fierce-waters-99113.herokuapp.com/)
-
-This project is a basic version of a blog where we played with the login to show or hide some features to the users. The functionalities are: sign up, login, and creating posts. All users and visitors can see the posts, but only logged in users can see the author.
-The app uses the bcrypt gem for authentication, which is made from scratch. It also stores cookies to remember the logged in users.
-This project was one of the firsts I created using RoR and was a challenge, especially building the authentication process.
-
-### [Blog Project Repo](https://github.com/majovanilla/static-page)
-
-Project based on the Michael Hartls' Rails Tutorial. This was the first complete RoR project that I built.
-Over the time I've improved the backend and the frontend.
-I enjoyed and was challenged by this project, being my first approach to Rails. Of course, nothing topped the feeling of being able to build a fully functional app for the first time.
 
 ## Contact Information
 

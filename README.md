@@ -29,7 +29,7 @@
   * [Blog Project](#blog-project-repo)
   * [Members Only Project](#members-only-app-repo)
   
-* [Javascript Projects](#js-projects)
+* [JavaScript Projects](#js-projects)
   * [Weather app](#weather-app-repo)
   * [Restaurant Page](#restaurant-page-repo)
   * [Library Project](#library-project-repo)
@@ -52,7 +52,7 @@
 ### [Social Network Repo](https://gitlab.com/majovanilla/social-network/)
 [Live Version](https://serene-basin-51287.herokuapp.com/)
 
-In this collaborative project, we created an app with similar functionalities as Facebook. The challenge was to build the app from scratch, desingnin the architecture, thinking about the models and the associations between them. At the end, the app allows a user to create an account using their email or through Facebook, they can add other users as friends, accept or delete requests, create posts, comments and likes.
+In this collaborative project, we created an app with functionalities like Facebook. The challenge was to build the app from scratch, designing the architecture, thinking about the models and the associations between them. At the end, the app allows a user to create an account with their email or through Facebook authentication, they can add other users as friends, accept or delete requests, create posts, comments and likes.
 
 ### [Event Manager Repo](https://github.com/majovanilla/event-app)
 
@@ -61,16 +61,16 @@ This project was focused on creating a website were users could publish and atte
 ### [Members Only App Repo](https://github.com/majovanilla/Members-Only)
 [Live Version]( https://fierce-waters-99113.herokuapp.com/)
 
-This project is a basic version of a blog where we played with the login to show or hide some features to the users. The functionalities are: sign up, login, and creating posts. All users and visitors can see the posts, but only logged in users can see the author.
+This project is a basic version of a blog where we played with authentication to show or hide some features to the users. The functionalities are: sign up, login, and creating posts. All users and visitors can see the posts, but only logged in users can see the author.
 The app uses the bcrypt gem for authentication, which is made from scratch. It also stores cookies to remember the logged in users.
-This project was one of the firsts I created using RoR and was a challenge, especially building the authentication process.
+This project was one of the first I created using RoR and was a challenge, especially building the authentication process.
 
 ### [Blog Project Repo](https://github.com/majovanilla/static-page)
 
 Project based on the Michael Hartls' Rails Tutorial. This was the first complete RoR project that I built.
-Over time I've improved the backend and the frontend. I enjoyed and was challenged by this project, being my first attempt at Rails.
+Over time I've improved the backend and the frontend. I enjoyed working on it and was challenged by this project, being my first attempt at Rails.
 
-## Javsscript Projects
+## JavaScript Projects
 
 ### [Weather app Repo](https://github.com/majovanilla/weather-app)
 [Live Version](https://majovanilla.github.io/weather-app/)
@@ -91,7 +91,7 @@ This project was all about learning how to create a functional app using only JS
 ### [To do List Repo](https://github.com/majovanilla/todo-list)
 [Live Version](https://majovanilla.github.io/todo-list/)
 
-This was a fun project. Again, the difficult thing is using Javascript to select and manipulate the actual objects stored in the DB, in this case Local Storage.
+This was a fun project. Again, the tricky thing is using Javascript to select and manipulate the actual objects stored in the DB, in this case Local Storage.
 The app allows the user to create projects and attach to-dos to them, along with a description, priority, and due date. We also played a little with form validation using JS to avoid allowing incorrect inputs to be submitted.
 
 ## Ruby Projects

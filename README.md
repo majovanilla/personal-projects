@@ -23,6 +23,12 @@
 
 
 ## Contents
+* [React & Redux Projects](#react-projects)
+  * [Appointments App](#appointments-app-repo)
+  * [Pet Finder](#pet-finder-repo)
+  * [Bookstore](#bookstore-repo)
+  * [Calculator](#calculator-repo)
+  
 * [Ruby on Rails Projects](#ror-projects)
   * [Social Network](#social-network-repo)
   * [Event Manager](#event-manager-repo)
@@ -46,6 +52,29 @@
   * [TDN Clone Page](#tdn-clone-page-repo)
 
 * [Contact Information](#contact-information)
+
+## React Projects
+
+### [Appointments App Repo](https://github.com/majovanilla/appointments-frontend)
+[Live Version](https://appointments-majo-vanilla.netlify.app/
+
+This was my final project in Microverse. The purpose was to create a full application using all the knowledge acquired during the course. I created the backend using Rails as an API, and the frontend using React. The app allows the user to check available tutors in their cities and schedule an appointment to have an online class. You can check the profile of the tutors and select one.
+
+### [Pet Finder Repo](https://github.com/majovanilla/pet-adoption)
+[Live Version](https://pet-finder-react.netlify.app/)
+
+In this project I started working with API's. I looked for an interesting API to work and decided to try [this one](https://www.petfinder.com/user/developer-settings/) that helps you find a pet to adopt. The project is still in work, as it will turn into its own API to help local pet shelters in my country to reach a wider audience and find more responsible adopters to give pets a home.
+
+### [Bookstore Repo](https://github.com/majovanilla/react-bookstore-manager)
+[Live Version](https://react-bookstore-final.herokuapp.com/)
+
+Another simple project that works as a personal library. A user can create books using a simple form and see all the books they have stored, the info about authors, page numbers and other details.
+
+### [Calculator Repo](https://github.com/majovanilla/react-calculator)
+[Live Version](https://react-calculator-heroku.herokuapp.com/)
+
+This was my first project using React. It's a simple calculator that allows the user to perform the basic mathematical operations and display a result. In this case, I added the ability to compute chained operations.
+
 
 ## RoR Projects
 

@@ -55,8 +55,8 @@
 
 ## React Projects
 
-### [Appointments App Repo](https://github.com/majovanilla/appointments-frontend/github.com/majovanilla/pet-adoption)
-[Live Version](https://appointments-majo-vanilla.netlify.app/
+### [Appointments App Repo](https://github.com/majovanilla/appointments-frontend)
+[Live Version](https://appointments-majo-vanilla.netlify.app/)
 
 This was my final project in Microverse. The purpose was to create a full application using all the knowledge acquired during the course. I created the backend using Rails as an API, and the frontend using React. The app allows the user to check available tutors in their cities and schedule an appointment to have an online class. You can check the profile of the tutors and select one.
 
